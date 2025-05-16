@@ -1,5 +1,7 @@
 # Probo-Polymarket Arbitrage Bot
 
+![Arbitrage Bot Architecture](image.png)
+
 This project implements an arbitrage bot that identifies and executes trading opportunities between Probo and Polymarket prediction markets. The bot monitors price differences between the same markets on both platforms and executes trades when profitable arbitrage opportunities are found.
 
 ## Overview
